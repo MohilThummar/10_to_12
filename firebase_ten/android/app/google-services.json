@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "797205751956",
+    "project_id": "ten-to-twelve",
+    "storage_bucket": "ten-to-twelve.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797205751956:android:97f73adc7473b2a784ec81",
+        "android_client_info": {
+          "package_name": "com.app.firebase_ten"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797205751956-d1s54rt4r3b0m1deslqp8rm9047iroc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7FtxV0llOMezL4G3YglVKct6R8ULny2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797205751956-d1s54rt4r3b0m1deslqp8rm9047iroc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
